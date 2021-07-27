@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8536d74d.chunk.css",
+    "main.js": "/static/js/main.1c6dc86b.chunk.js",
+    "main.js.map": "/static/js/main.1c6dc86b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.9cfc2aab.js",
+    "runtime~main.js.map": "/static/js/runtime~main.9cfc2aab.js.map",
+    "static/css/2.75942918.chunk.css": "/static/css/2.75942918.chunk.css",
+    "static/js/2.309e1cbc.chunk.js": "/static/js/2.309e1cbc.chunk.js",
+    "static/js/2.309e1cbc.chunk.js.map": "/static/js/2.309e1cbc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2afd3470059af0b186a634df54eaa10.js": "/precache-manifest.a2afd3470059af0b186a634df54eaa10.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.75942918.chunk.css.map": "/static/css/2.75942918.chunk.css.map",
+    "static/css/main.8536d74d.chunk.css.map": "/static/css/main.8536d74d.chunk.css.map",
+    "static/media/home.css": "/static/media/Asset2.f48c78bd.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
